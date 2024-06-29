@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+
+<HBox alignment="CENTER_LEFT" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.multiplechoice.Controllers.Question.AddQuestionOptionController">
+   <children>
+      <Label fx:id="questionOptionLabel" text="Label" />
+      <TextField fx:id="questionOptionInput">
+         <HBox.margin>
+            <Insets left="20.0" />
+         </HBox.margin>
+      </TextField>
+   </children>
+</HBox>
