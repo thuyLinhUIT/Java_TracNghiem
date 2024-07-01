@@ -20,11 +20,11 @@ Cơ sở dữ liệu (CSDL) trong hệ thống Kiểm Tra trắc nghiệm của 
 #### 3.1. Admin (Giáo viên): Có 3 trang giao diện:
 - Tạo đề thi mới: Tạo mã đề, tên đề, thời gian làm bài và chọn số lượng câu hỏi theo yêu cầu bằng cách chọn số lượng câu hỏi từng chương.
 - Điều chỉnh đề thi: Tên đề thi, thời gian làm bài Hoặc Xóa các đề thi mà học sinh chưa làm bài.
-- Điều chỉnh ngân hàng câu hỏi: Thêm, Xóa, Sửa câu hỏi trong ngân hàng đề, hỗ trợ lọc câu hỏi theo học kỳ và chương.
-  <img src="image/teacher1.jpg" width="300">  <img src="image/teacher2.jpg" width="300">  <img src="image/teacher3.jpg" width="300">
+- Điều chỉnh ngân hàng câu hỏi: Thêm, Xóa, Sửa câu hỏi trong ngân hàng đề, hỗ trợ lọc câu hỏi theo học kỳ và chương.  
+  <img src="image/teacher1.jpg" width="250">  <img src="image/teacher2.jpg" width="250">  <img src="image/teacher3.jpg" width="250">
 #### 3.2. User (Học sinh): Có 3 trang giao diện:
 +	Chọn đề muốn thi: chọn 1 trong những đề đã được giáo viên tạo từ trước.
 +	Tiến hành thi: Chọn các đáp án đúng
 +	Xem kết quả thi.  
- <img src="image/studen1.jpg" width="300"> <img src="image/studen2.jpg" width="300"> <img src="image/studen3.jpg" width="300">
+ <img src="image/studen1.jpg" width="250"> <img src="image/studen2.jpg" width="250"> <img src="image/studen3.jpg" width="250">
 
